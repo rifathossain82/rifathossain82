@@ -53,6 +53,8 @@ Skills➡️
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rifathossain82&show_icons=true)  
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rifathossain82)](https://github.com/anuraghazra/github-readme-stats)
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rifathossain82)  
 
 ![GitHub metrics](https://metrics.lecoq.io/rifathossain82)  
