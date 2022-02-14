@@ -51,9 +51,7 @@ Skills➡️
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifathossain82&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rifathossain82&show_icons=true)  
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rifathossain82)](https://github.com/anuraghazra/github-readme-stats)
+![99's Github Stats](https://github-readme-stats.vercel.app/api?username=rifathossain82&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rifathossain82)  
 
