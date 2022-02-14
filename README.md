@@ -14,12 +14,12 @@ I'm an Apps developer and programmer having 2 years of experience in the field. 
 
 
 Programming Language➡️
-/n🔸C
-/n🔸C++
-🔸Java
-🔸Dart
-🔸PHP
-🔸JavaScript
+ <br />🔸C
+ <br />🔸C++
+ <br />🔸Java
+ <br />🔸Dart
+ <br />🔸PHP
+ <br />🔸JavaScript
 
 Skills➡️
 🔸Java Swing
