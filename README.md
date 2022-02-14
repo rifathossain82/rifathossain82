@@ -14,8 +14,8 @@ I'm an Apps developer and programmer having 2 years of experience in the field. 
 
 
 Programming Language➡️
-🔸C
-🔸C++
+\n🔸C
+\n🔸C++
 🔸Java
 🔸Dart
 🔸PHP
