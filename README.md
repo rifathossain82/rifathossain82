@@ -37,6 +37,17 @@ Skills➡️
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
+
+<p align="left">
+<a href="https://twitter.com/rifatho25073502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rifatho25073502" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rifat-hossain-66811b201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rifat-hossain-66811b201/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17568395" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17568395" height="30" width="40" /></a>
+<a href="https://fb.com/rh.rifat.33633" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rh.rifat.33633" height="30" width="40" /></a>
+<a href="https://instagram.com/rh_rifat220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rh_rifat220" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uchqjehnirrnymwtyk0rh9jg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uchqjehnirrnymwtyk0rh9jg" height="30" width="40" /></a>
+</p>
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=rifathossain82)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifathossain82)](https://github.com/anuraghazra/github-readme-stats)
