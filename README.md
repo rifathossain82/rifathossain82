@@ -43,9 +43,6 @@ Skills➡️
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uchqjehnirrnymwtyk0rh9jg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uchqjehnirrnymwtyk0rh9jg" height="30" width="40" /></a>
 </p>
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rifathossain82)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifathossain82&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=rifathossain82&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
