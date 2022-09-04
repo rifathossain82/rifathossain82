@@ -16,8 +16,6 @@ Programming Language➡️
  <br />🔸C++
  <br />🔸Java
  <br />🔸Dart
- <br />🔸PHP
- <br />🔸JavaScript
 
 Skills➡️
  <br />🔸Java Swing
