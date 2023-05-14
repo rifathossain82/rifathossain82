@@ -20,8 +20,6 @@ Software Engineer with 2+ years of experience of Flutter App Development. Has ex
 
 ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=rifathossain82&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rifathossain82)  
-
 ![GitHub metrics](https://metrics.lecoq.io/rifathossain82)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rifathossain82)  
