@@ -23,5 +23,3 @@ Software Engineer with 2+ years of experience of Flutter App Development. Has ex
 ![GitHub metrics](https://metrics.lecoq.io/rifathossain82)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rifathossain82)  
-
-![Profile views](https://gpvc.arturio.dev/rifathossain82)  
