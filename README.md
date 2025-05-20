@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm RIFAT HOSSAIN 👨‍💻
 #### Software Engineer (Flutter)
 
-Software Engineer with 2+ years of experience of Flutter App Development. Has experience of working in POS (Point of Sale), DMS (Document Management System) and E-commerce with strong problem-solving capabilities who is seeking to obtain a creative and challenging position to utilizes current knowledge to android and iOS apps development. Extremely passionate towards software architecture and design combined with sensitivity to serve the needs to the business balanced with the delivery of high-quality solutions.
+A seasoned Software Engineer with over 3 years of hands-on experience in Flutter app development and more than 5 years in programming. He has built cross-platform mobile applications across Android, iOS, and Web, specializing in POS systems, Document Management Systems, E-commerce platforms, VPN apps, and personal finance tools. Rifat excels in crafting pixel-perfect UIs, maintaining clean and scalable architecture, and implementing modern design patterns like MVC, MVVM, and Clean Architecture. He is proficient in state management using GetX and BLoC, with a strong passion for software architecture and high-quality, user-focused solutions.
 
 <br>
 
